@@ -4,7 +4,7 @@
   border: 1px solid white;
   border-radius: 10px;
   max-width: 550px;
-  margin: 20px auto;
+  margin: 20px auto 5px;
   padding: 20px;
   background-color: white;
   opacity: 70%3;
@@ -75,4 +75,20 @@ body {
 
 #separator {
   color: #deebf2;
+}
+
+.submitRepo {
+  /* position: relative; */
+  top: 2px;
+  text-align: left;
+  color: white;
+  font-size: small;
+  max-width: 550px;
+  margin: 2px auto;
+  padding-left: 15px;
+}
+
+#submitRepo {
+  text-decoration: none;
+  color: white;
 }

@@ -106,4 +106,4 @@ userPositionButton.addEventListener("click", getUserPosition);
 let searchCityForm = document.querySelector("#search-city");
 searchCityForm.addEventListener("submit", searchCity);
 
-searchDefaultCity("oslo");
+searchDefaultCity("kyiv");
